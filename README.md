@@ -1,16 +1,10 @@
 # registrasi_sekolah
 
-A new Flutter project.
+aplikasi mobile yang digunakan untuk pendaftaran siswa baru pada sebuah sekolah
 
-## Getting Started
+## Nama Project : registrasi sekolah 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Piero - 19220601 
+2. Anggie yatha yoshua -19220625 
+3. muhamat andre -19221030  
+4. Aditio Nurdiansyah - 19220808  
